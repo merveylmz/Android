@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_clouds"
+        android:orderInCategory="100"
+        android:title="Clouds" />
+
+    <item
+        android:id="@+id/action_coord"
+        android:orderInCategory="101"
+        android:title="Coord" />
+
+    <item
+        android:id="@+id/action_main"
+        android:orderInCategory="105"
+        android:title="Main" />
+
+    <item
+        android:id="@+id/action_weather"
+        android:orderInCategory="103"
+        android:title="Weather" />
+
+    <item
+        android:id="@+id/action_wind"
+        android:orderInCategory="104"
+        android:title="Wind" />
+
+
+</menu>
